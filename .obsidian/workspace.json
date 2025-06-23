@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "b6f26126a80d42ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0993febf269ae57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa35e2aff17a4256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decoded Ciphers/When The Vessel Breaks....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "When The Vessel Breaks..."
+            }
+          },
+          {
+            "id": "530ecfd889b55abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decoded Ciphers/A Note of Parting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Note of Parting"
+            }
+          },
+          {
+            "id": "7bd236045b0587c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "204ce1091fc3f01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mystryl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mystryl"
+            }
+          },
+          {
+            "id": "80680fa8d75273b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Astral Sea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Astral Sea"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba73290034bcdaa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6936e773289fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff70342460ff2f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12d4908a6c73c831",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rampan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3232133b80060415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bef47bed338824f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5afc4a702fb01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60fd273855c385d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73545f8d6cebd4d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3a5bd0778785649f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8743808c26d6355a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7bd236045b0587c3",
+  "lastOpenFiles": [
+    "Decoded Ciphers/When The Vessel Breaks....md",
+    "Characters/The Last Dreamer.md",
+    "Books/The History of the Gith.md",
+    "Concepts and Esoterica/Silver Rope.md",
+    "Decoded Ciphers/Letter to Vlaakith from probably Vecner.md",
+    "Decoded Ciphers/Shadowfell Shattered Fang Note.md",
+    "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
+    "Decoded Ciphers/You Mere Ants - Transmission From the Stars.md",
+    "Concepts and Esoterica/The Path.md",
+    "Characters/Karsus.md",
+    "Misc",
+    "Characters",
+    "Concepts and Esoterica",
+    "Places",
+    "Books/The Spacetime Book with a Long Title.md",
+    "Other Texts",
+    "Decoded Ciphers",
+    "Books",
+    "Other Texts/Parable of Myrkul.md",
+    "Concepts and Esoterica/Rampancy.md",
+    "Places/Locum Arcanum.md",
+    "Places/Cresthall Theatre.md",
+    "Concepts and Esoterica/Stupid Damn Tree.md",
+    "Books/Wishful Thinking and Golden Chains.md",
+    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
+    "Books/Brief History of the Mystical Sciences.md",
+    "Characters/Mystryl.md",
+    "Books/Discipline and Sedition - The original prison and primordial panopticism.md",
+    "Characters/Mystra.md",
+    "Characters/The Ever-loyal Servant.md",
+    "Characters/Vlaakith.md",
+    "Misc/God Eaters.md",
+    "Places/Astral Sea.md"
+  ]
+}

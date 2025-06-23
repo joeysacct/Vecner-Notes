@@ -1,0 +1,2 @@
+[[Silent Eye]], The ritual is nearly complete. This creature I am creating will be a powerful tool for our work in the Underdark. Its strength will ensure no one dares oppose us, nor the will of the whispered one. My sanctum is in the Ruptured Hollows, south of the Cavern of Black Tears. Look for the sigils of the [[Vecna|withering hand]] to guide you. Come quickly and prepared for our next stages of control. We cannot afford interruptions at this stage. May secrets bind you. [[Shattered Fang]]
+
