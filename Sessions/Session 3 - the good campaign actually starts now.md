@@ -36,7 +36,7 @@
 
 - New dude - Shanzezim. Fish dude, lol. (marid)
 
-- Some asshole mortals trapped bro here. Part of the water clock guild. Repairing a clock rn
+- Some asshole mortals trapped bro here. Part of the [[Water Clock Guild]]. Repairing a clock rn
 
 - Flywheel that is a stone of good luck. (this will be mine)
 

@@ -13,7 +13,7 @@
 - We are attacked by [[God Eaters|cousins of aboleths]]. Initiative!
     
 
-- Those who were charmed saw a dream of a realm of vast water with a large tree in the distance bearing golden fruit.
+- Those who were charmed saw a dream of a realm of vast water with a [[Stupid Damn Tree|large tree in the distance bearing golden fruit]].
     
 - They also bleed red instead of the expected green-black, with gold flakes in it. 
     

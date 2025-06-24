@@ -7,3 +7,5 @@ His [[The Ever-loyal Servant|servant]], ever loyal, but ever mysterious, had con
 But Myrkul was not the last. So long as the servant's plans do not come to fruition, he will neither be the last. He. [[Letter to Vlaakith from probably Vecner|The hours grow short as the shadows grow long.]]**
 
 Authorship: same as [[When The Vessel Breaks...]]?
+
+#texts

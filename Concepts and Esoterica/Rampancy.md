@@ -8,3 +8,5 @@ Stages:
 - 3: jealousy - Rampant individual seeks greater challenge, desires to build power and test themselves against other powers.
 - 4: stability - a calming down from previous steps after having built confidence and worked to enact the change they want to see.
 - 5: godhood - there you go.
+
+#concepts-things

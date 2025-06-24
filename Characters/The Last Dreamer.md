@@ -9,3 +9,5 @@ Appears in:
 
 Authored:
 [[A Note of Parting]]
+
+#characters

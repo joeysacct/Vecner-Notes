@@ -111,3 +111,4 @@ The last page of the logbook is torn horizontally. Only a partial note remains:
 
 Then nothing. Just salt-stained paper.
 
+#texts

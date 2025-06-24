@@ -15,3 +15,5 @@ The storm has become a river. And I. I am the current. I am the only.
 Who is "He": [[Myrkul]]? [[Mystryl]]?
 
 Author: same as [[Parable of Myrkul]]?
+
+#cipher
