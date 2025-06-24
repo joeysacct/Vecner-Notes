@@ -1,12 +1,12 @@
-The curtain on the stage rises up, showing a man and a tree. The tree is fruiting with golden fruit all over it, ranging in size from a fist to a watermelon. The man wears a simple tunic, and has broken manacles on his wrists and ankles, and sits on a stool.
+The curtain on the stage rises up, showing a man and a tree. The [[Stupid Damn Tree|tree]] is fruiting with golden fruit all over it, ranging in size from a fist to a watermelon. The man wears a simple tunic, and has broken manacles on his wrists and ankles, and sits on a stool.
 
 "Bring the next forth!"
 
-Suddenly, a man is pushed into the scene from stage left. He stumbles as he moves forward. He approaches the man on the stool.
+Suddenly, a [[The Last Dreamer|man]] is pushed into the scene from stage left. He stumbles as he moves forward. He approaches the man on the stool.
 
 "This can only end one way, whelp. Try as you might, it is inevitable."
 
-The shackled man stands, spits, and says nothing, instead placing the stool in front of the other and hoisting the man onto the stool. He produces a silver rope, shimmering in the light on the stage. It is tied into a noose, which he slips over the other man's head, tossing the other end around a branch of the tree, and pulling it taut, tying it to the tree's trunk. As he does, the other man makes no attempt to struggle.
+The shackled man stands, spits, and says nothing, instead placing the stool in front of the other and hoisting the man onto the stool. He produces a [[silver rope]], shimmering in the light on the stage. It is tied into a noose, which he slips over the other man's head, tossing the other end around a branch of the tree, and pulling it taut, tying it to the tree's trunk. As he does, the other man makes no attempt to struggle.
 
 "I guess I can't blame you. Fools have their folly and the weak have their weakness. This was always meant to be. I mean..." The man shoots a look directly at you all. "It was always in the script...
 
