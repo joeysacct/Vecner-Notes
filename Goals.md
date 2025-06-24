@@ -1,0 +1,14 @@
+
+- [ ] Find durnun denzendur
+- [ ] Kill chuzz(🍕)
+- [ ] Collect The Seven Parts of the [[Rod of Seven Parts]]
+	- [x] First part - in the Underdark. We go there, find Web’s Edge (a refuge for more powerful agents of the spider queen). Whether or not it’s in use is hard to say, but it’s guarded, hard to find, or both. The piece of the Rod is somewhere over there. To return we must go to Dark Lake.
+	- [x] Second part - In the [[Astral Sea]]. Still need to find it. 
+	- [ ] Third part - In [[Eberron]]
+	- [ ] Fourth part
+	- [ ] Fifth part
+	- [ ] Sixth part
+	- [ ] Seventh part
+- [ ] Return to Alustriel at some point to talk about Mystra
+- [ ] Kill juck
+- [ ] Find where the steel dragons are
