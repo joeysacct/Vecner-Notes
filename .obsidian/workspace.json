@@ -8,77 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa35e2aff17a4256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decoded Ciphers/When The Vessel Breaks....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "When The Vessel Breaks..."
-            }
-          },
-          {
-            "id": "530ecfd889b55abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decoded Ciphers/A Note of Parting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Note of Parting"
-            }
-          },
-          {
             "id": "7bd236045b0587c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Places/Locum Arcanum.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Other Texts/Ruby Poem.md",
+                "bFile": "Other Texts/Ruby Poem.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Locum Arcanum"
-            }
-          },
-          {
-            "id": "204ce1091fc3f01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Mystryl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mystryl"
-            }
-          },
-          {
-            "id": "80680fa8d75273b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Astral Sea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Astral Sea"
+              "icon": "diff",
+              "title": "Diff: Ruby Poem"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rampan",
+                "query": "mourn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,32 +179,33 @@
   },
   "active": "7bd236045b0587c3",
   "lastOpenFiles": [
-    "Places/Eberron.md",
-    "Places/Cresthall Theatre.md",
-    "Places/Astral Sea.md",
-    "Other Texts/The Last of the Dreamers.md",
+    "Sessions/Session 5 - Marvel Moment.md",
+    "Sessions/Session 16 - Lorecucked.md",
     "Other Texts/Skate Logbook.md",
+    "Other Texts/The Last of the Dreamers.md",
+    "Places/Astral Sea.md",
+    "Places/Cresthall Theatre.md",
     "Other Texts/Parable of Myrkul.md",
+    "Other Texts/Nyxaris's Dream.md",
+    "Sessions/Session 15 - Blackith.md",
+    "Decoded Ciphers/Letter to Vlaakith from probably Vecner.md",
+    "Places/Locum Arcanum.md",
+    "Goals.md",
+    "Sessions/Session 13 - Plump and Full of Ranch.md",
+    "Other Texts/Letter to Dusty.md",
+    "Other Texts/Ruby Poem.md",
+    "cf.md",
+    "temp.md",
     "Other Texts/His Name Was Magic.md",
     "Books/Wishful Thinking and Golden Chains.md",
     "Books/The Spacetime Book with a Long Title.md",
-    "Books/The History of the Gith.md",
-    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
     "Books/Discipline and Sedition - The original prison and primordial panopticism.md",
+    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
     "Books/Brief History of the Mystical Sciences.md",
-    "Characters/Yadeen.md",
-    "Characters/Vlaakith.md",
-    "Characters/Velsharoon.md",
-    "Characters/Vecna.md",
-    "Characters/Traktamus.md",
-    "Characters/The Third.md",
-    "Characters/The Man Out of Time.md",
-    "Characters/The Last Dreamer.md",
-    "Characters/The Ever-loyal Servant.md",
-    "Characters/The Betrayer.md",
-    "Characters/Tasha.md",
-    "Characters/Silent Eye.md",
-    "Characters/Shattered Fang.md",
+    "Decoded Ciphers/You Mere Ants - Transmission From the Stars.md",
+    "Decoded Ciphers/When The Vessel Breaks....md",
+    "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
+    "Sessions",
     "Misc",
     "Characters",
     "Concepts and Esoterica",

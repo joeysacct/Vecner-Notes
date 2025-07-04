@@ -1,0 +1,3 @@
+To Dusty Slater, Son of Garth, Champion of the Orions, I write to you, dearly, with a request for your presence. I am not at liberty to speak on the nature of your presence, but do know that I am in great need of your assistance, along with any others who are willing to assist you in your journey. The very fabric of reality may depend on you alone. Please, come find me within the Sevenfold Mazework within the Great Dismal Delve. I request your appearance as audience for The Great Khan Kabril Ali al-Sara al-Zalazil, Ataman of the Mountain's Roots, Ruler of the Dao, Master of All Minerals. I hope to see you again soon.
+
+- Rhodina al-Sara

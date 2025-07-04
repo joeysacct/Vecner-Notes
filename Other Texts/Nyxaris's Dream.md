@@ -1,0 +1,7 @@
+Where the mists cling like the grasping dead and the land is split by stone and shadow, a tower rises at the world’s fraying edge. It looms at the border where memory fails, where the fog devours, where minds unravel. There, a king of night waits, weaving chains of silver and hunger from the dreams of those who dare wander." You see before you, appearing in the void, a tower of strange metal, shrouded in mist and illuminated by moonlight. It thrums with a deep, unerring rhythm that makes your bones feel cold in your body. "A heart that once beat with life is still, but its thirst endures. It seeks the light of others to feed its endless craving. In a tower where whispers slither and walls bleed secrets, your steps will falter, and the dreams will turn against you." 
+
+You see the inside of a dark room, made of that same strange metal. A gelid slime of red seems to be seeping from the seams. You can hear the sounds of saws against flesh, and the gurgled, whispered pleas for safety. 
+
+"Beware the whispers that call your name from the mist’s edge. Beware the eyes that gleam like the moon, empty and endless. Beware the gift of eternity, wrapped in chains of thought and thirst. For at the tower of the borderlands, the king waits – a mind that is no longer a man, a hunger that is no longer a soul." 
+
+You then see a group of people, gathered around a table, themselves enrobed in darkness, each of you unable to make out what their features are in the pure voids of their silhouettes. They all turn to look at you with blank, pearly white eyes.
