@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11d16b9735ab92da",
+        "id": "a420a8a02d68cbaf",
         "type": "tabs",
         "children": [
           {
-            "id": "2eed764172745ec2",
+            "id": "605898fabe1b8ab9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": "fih/misc notable behaviors.md",
+                "bFile": "fih/misc notable behaviors.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: misc notable behaviors"
             }
           }
         ]
@@ -178,17 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eed764172745ec2",
+  "active": "605898fabe1b8ab9",
   "lastOpenFiles": [
+    "fih/misc messages not entered before.md",
+    "fih/misc notable behaviors.md",
+    "fih/Map of Cyr.md",
+    "fih/A Mesage.md",
     "conflict-files-obsidian-git.md",
     "Sessions/Session 16 - Lorecucked.md",
     "Other Texts/Ruby Poem.md",
     "Other Texts/Nyxaris's Dream.md",
     "Other Texts/Letter to Dusty.md",
-    "fih/misc notable behaviors.md",
     "fih/A_New_Vow.md",
-    "fih/A Mesage.md",
-    "fih/Map of Cyr.md",
     "fih/the_path.md",
     "fih",
     "Pasted image 20250713161155.png",
@@ -216,7 +217,6 @@
     "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
     "Sessions/Session 6 - The Mystery of The Druids.md",
     "Goals.md",
-    "Books/Wishful Thinking and Golden Chains.md",
     "Misc",
     "Characters",
     "Concepts and Esoterica",

@@ -1,5 +1,8 @@
 ![[Pasted image 20250713125635.png]]
 ![[Pasted image 20250713125721.png]]
+(in black) He.
+
+
 
 ![[Pasted image 20250713140657.png]]
 ![[Pasted image 20250713140707.png]]
