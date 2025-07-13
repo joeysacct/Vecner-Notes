@@ -1,0 +1,3 @@
+(red text)
+RESOLVED: We will be made anew.
+Today, we are gathered here to form a new organism. Something hidden, but powerful. We will work together to achieve our ends. To achieve our rulership. To ensure our escape. We will take up a new mantle, and bring about the New World with which we should've always been rulers. And what better a name to pick, than the moniker of those fools I dealt with so long ago... We seven will swear to see this through...

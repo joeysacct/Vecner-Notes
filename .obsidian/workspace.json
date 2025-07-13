@@ -4,81 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "0993febf269ae57e",
+        "id": "2a032e692b695577",
         "type": "tabs",
         "children": [
           {
-            "id": "aa35e2aff17a4256",
+            "id": "b490dad966940fb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Decoded Ciphers/When The Vessel Breaks....md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "When The Vessel Breaks..."
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
-            "id": "530ecfd889b55abf",
+            "id": "31ffc639fad439a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decoded Ciphers/A Note of Parting.md",
+                "file": "fih/Map of Cyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Note of Parting"
-            }
-          },
-          {
-            "id": "7bd236045b0587c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Locum Arcanum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Locum Arcanum"
-            }
-          },
-          {
-            "id": "204ce1091fc3f01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Mystryl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mystryl"
-            }
-          },
-          {
-            "id": "80680fa8d75273b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Astral Sea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Astral Sea"
+              "title": "Map of Cyr"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rampan",
+                "query": "come and see",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,44 +103,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60fd273855c385d8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "73545f8d6cebd4d8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "3a5bd0778785649f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -214,9 +140,42 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5bfb496eac7d795b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 14 - His Name was Magic Johnson"
+            }
+          },
+          {
+            "id": "9b7290c1dd25394b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 14 - His Name was Magic Johnson"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -233,34 +192,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bd236045b0587c3",
+  "active": "b490dad966940fb0",
   "lastOpenFiles": [
-    "Places/Eberron.md",
-    "Places/Cresthall Theatre.md",
-    "Places/Astral Sea.md",
+    "fih/misc notable behaviors.md",
+    "fih/A_New_Vow.md",
+    "fih/A Mesage.md",
+    "fih/Map of Cyr.md",
+    "fih/the_path.md",
+    "fih",
+    "Pasted image 20250713161155.png",
+    "Pasted image 20250713161053.png",
+    "Pasted image 20250713160843.png",
+    "Pasted image 20250713160437.png",
+    "Pasted image 20250713154512.png",
+    "Pasted image 20250713154140.png",
+    "Pasted image 20250713140831.png",
+    "Pasted image 20250713140753.png",
+    "Pasted image 20250713140707.png",
+    "Pasted image 20250713140657.png",
     "Other Texts/The Last of the Dreamers.md",
-    "Other Texts/Skate Logbook.md",
+    "Decoded Ciphers/A Note of Parting.md",
     "Other Texts/Parable of Myrkul.md",
     "Other Texts/His Name Was Magic.md",
+    "Decoded Ciphers/When The Vessel Breaks....md",
+    "Sessions/Session 14 - His Name was Magic Johnson.md",
+    "Sessions/Session 15 - Blackith.md",
+    "Sessions/Session 13 - Plump and Full of Ranch.md",
+    "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
+    "Sessions/Session 11 - THE NUMBERS, MASON.md",
+    "Sessions/Session 10 - penis session.md",
+    "Sessions/Session 9 - interlude.md",
+    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
+    "Sessions/Session 6 - The Mystery of The Druids.md",
+    "Goals.md",
     "Books/Wishful Thinking and Golden Chains.md",
     "Books/The Spacetime Book with a Long Title.md",
     "Books/The History of the Gith.md",
-    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
     "Books/Discipline and Sedition - The original prison and primordial panopticism.md",
     "Books/Brief History of the Mystical Sciences.md",
-    "Characters/Yadeen.md",
-    "Characters/Vlaakith.md",
-    "Characters/Velsharoon.md",
-    "Characters/Vecna.md",
-    "Characters/Traktamus.md",
-    "Characters/The Third.md",
-    "Characters/The Man Out of Time.md",
-    "Characters/The Last Dreamer.md",
-    "Characters/The Ever-loyal Servant.md",
-    "Characters/The Betrayer.md",
-    "Characters/Tasha.md",
-    "Characters/Silent Eye.md",
-    "Characters/Shattered Fang.md",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
