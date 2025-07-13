@@ -18,6 +18,7 @@
 - They also bleed red instead of the expected green-black, with gold flakes in it. 
     
 - Kinda like red milk ngl
+- We got some of its blood as well
     
 
 - Gith name roughly translates to “[[god eaters]]”

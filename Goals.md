@@ -11,4 +11,6 @@
 	- [ ] Seventh part
 - [ ] Return to Alustriel at some point to talk about Mystra
 - [ ] Kill juck
-- [ ] Find where the steel dragons are
+- [ ] Find where the steel dragons are (from greyhawk, were in waterdeep but driven out/underground)
+- [ ] Learn about Greatwurms, found in sandier regions of oerth
+- [ ] 
