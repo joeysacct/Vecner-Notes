@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a420a8a02d68cbaf",
+        "id": "0993febf269ae57e",
         "type": "tabs",
         "children": [
           {
-            "id": "605898fabe1b8ab9",
+            "id": "f614f233b57016a3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "fih/misc notable behaviors.md",
-                "bFile": "fih/misc notable behaviors.md",
-                "aRef": ""
+                "file": "fih/misc messages not entered before.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: misc notable behaviors"
+              "icon": "lucide-file",
+              "title": "misc messages not entered before"
+            }
+          },
+          {
+            "id": "294c5bd3ab1832b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fih/A Message.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Message"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,10 +68,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "come and see",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -89,13 +104,44 @@
         "type": "tabs",
         "children": [
           {
+            "id": "60fd273855c385d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73545f8d6cebd4d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
             "id": "3a5bd0778785649f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -126,42 +172,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5bfb496eac7d795b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 14 - His Name was Magic Johnson"
-            }
-          },
-          {
-            "id": "9b7290c1dd25394b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Session 14 - His Name was Magic Johnson"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,18 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "605898fabe1b8ab9",
+  "active": "294c5bd3ab1832b4",
   "lastOpenFiles": [
-    "fih/misc messages not entered before.md",
-    "fih/misc notable behaviors.md",
-    "fih/Map of Cyr.md",
-    "fih/A Mesage.md",
-    "conflict-files-obsidian-git.md",
-    "Sessions/Session 16 - Lorecucked.md",
-    "Other Texts/Ruby Poem.md",
-    "Other Texts/Nyxaris's Dream.md",
-    "Other Texts/Letter to Dusty.md",
     "fih/A_New_Vow.md",
+    "fih/Map of Cyr.md",
+    "fih/misc notable behaviors.md",
+    "fih/misc messages not entered before.md",
+    "fih/A Message.md",
+    "Concepts and Esoterica/The Path.md",
+    "Decoded Ciphers/Letter to Vlaakith from probably Vecner.md",
     "fih/the_path.md",
     "fih",
     "Pasted image 20250713161155.png",
@@ -202,21 +212,26 @@
     "Pasted image 20250713140753.png",
     "Pasted image 20250713140707.png",
     "Pasted image 20250713140657.png",
+    "go fish arg.md",
+    "Unsolved Ciphers/Imminent Death.md",
+    "Decoded Ciphers/True Fire in Iron.md",
+    "Other Texts/Ruby Poem.md",
+    "Unsolved Ciphers",
+    "Sessions/Session 5 - Marvel Moment.md",
+    "Sessions/Session 16 - Lorecucked.md",
+    "Other Texts/Skate Logbook.md",
     "Other Texts/The Last of the Dreamers.md",
-    "Decoded Ciphers/A Note of Parting.md",
+    "Places/Astral Sea.md",
+    "Places/Cresthall Theatre.md",
     "Other Texts/Parable of Myrkul.md",
-    "Other Texts/His Name Was Magic.md",
-    "Decoded Ciphers/When The Vessel Breaks....md",
-    "Sessions/Session 14 - His Name was Magic Johnson.md",
+    "Other Texts/Nyxaris's Dream.md",
     "Sessions/Session 15 - Blackith.md",
-    "Sessions/Session 13 - Plump and Full of Ranch.md",
-    "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
-    "Sessions/Session 11 - THE NUMBERS, MASON.md",
-    "Sessions/Session 10 - penis session.md",
-    "Sessions/Session 9 - interlude.md",
-    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
-    "Sessions/Session 6 - The Mystery of The Druids.md",
+    "Places/Locum Arcanum.md",
     "Goals.md",
+    "Sessions/Session 13 - Plump and Full of Ranch.md",
+    "Other Texts/Letter to Dusty.md",
+    "cf.md",
+    "Sessions",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
