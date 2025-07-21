@@ -13,15 +13,30 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Concepts and Esoterica/Rampancy.md",
-                "bFile": "Concepts and Esoterica/Rampancy.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Rampancy"
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "9aed809bf09a108b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,15 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "605898fabe1b8ab9",
+  "active": "9aed809bf09a108b",
   "lastOpenFiles": [
-    "fih/A Mesage.md",
-    "fih/A_New_Vow.md",
-    "fih/misc messages not entered before.md",
+    "conflict-files-obsidian-git.md",
+    "fih/A Message.md",
+    "Unsolved Ciphers/imminentdeath.md",
+    "Unsolved Ciphers/finalfyshmsg.md",
+    "Unsolved Ciphers/Cyr.md",
+    "Unsolved Ciphers",
     "fih/Map of Cyr.md",
+    "fih/A_New_Vow.md",
+    "fih/A Mesage.md",
+    "fih/misc messages not entered before.md",
     "Concepts and Esoterica/Rampancy.md",
     "fih/misc notable behaviors.md",
-    "conflict-files-obsidian-git.md",
     "Sessions/Session 16 - Lorecucked.md",
     "Other Texts/Ruby Poem.md",
     "Other Texts/Nyxaris's Dream.md",
@@ -213,10 +233,6 @@
     "Sessions/Session 13 - Plump and Full of Ranch.md",
     "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
     "Sessions/Session 11 - THE NUMBERS, MASON.md",
-    "Sessions/Session 10 - penis session.md",
-    "Sessions/Session 9 - interlude.md",
-    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
-    "Sessions/Session 6 - The Mystery of The Druids.md",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
