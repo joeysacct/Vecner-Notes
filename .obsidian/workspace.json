@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Texts/Map of Cyr.md",
+                "file": "Other Texts/A Message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map of Cyr"
+              "title": "A Message"
             }
           }
         ]
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b51f846e1ae473ee",
+  "active": "cff70342460ff2f9",
   "lastOpenFiles": [
-    "Unsolved Ciphers/finalfyshmsg.md",
     "Other Texts/Map of Cyr.md",
+    "Other Texts/A Message.md",
     "Other Texts/The Last of the Dreamers.md",
     "Other Texts/Ruby Poem.md",
     "fih/A_New_Vow.md",
