@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a420a8a02d68cbaf",
+        "id": "6acdeb8623830625",
         "type": "tabs",
         "children": [
           {
-            "id": "605898fabe1b8ab9",
+            "id": "b51f846e1ae473ee",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Other Texts/Map of Cyr.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "9aed809bf09a108b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Map of Cyr"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hours ",
+                "query": "fire",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -104,13 +89,44 @@
         "type": "tabs",
         "children": [
           {
+            "id": "60fd273855c385d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73545f8d6cebd4d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
             "id": "3a5bd0778785649f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -141,42 +157,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5bfb496eac7d795b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 14 - His Name was Magic Johnson"
-            }
-          },
-          {
-            "id": "9b7290c1dd25394b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Session 14 - His Name was Magic Johnson"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,24 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aed809bf09a108b",
+  "active": "b51f846e1ae473ee",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Unsolved Ciphers/finalfyshmsg.md",
+    "Other Texts/Map of Cyr.md",
+    "Other Texts/The Last of the Dreamers.md",
+    "Other Texts/Ruby Poem.md",
+    "fih/A_New_Vow.md",
+    "fih/Map of Cyr.md",
     "fih/A Message.md",
     "Unsolved Ciphers/imminentdeath.md",
-    "Unsolved Ciphers/finalfyshmsg.md",
-    "Unsolved Ciphers/Cyr.md",
-    "Unsolved Ciphers",
-    "fih/Map of Cyr.md",
-    "fih/A_New_Vow.md",
-    "fih/A Mesage.md",
     "fih/misc messages not entered before.md",
-    "Concepts and Esoterica/Rampancy.md",
+    "Untitled.md",
     "fih/misc notable behaviors.md",
-    "Sessions/Session 16 - Lorecucked.md",
-    "Other Texts/Ruby Poem.md",
-    "Other Texts/Nyxaris's Dream.md",
-    "Other Texts/Letter to Dusty.md",
+    "Concepts and Esoterica/The Path.md",
+    "Decoded Ciphers/Letter to Vlaakith from probably Vecner.md",
     "fih/the_path.md",
     "fih",
     "Pasted image 20250713161155.png",
@@ -223,16 +203,20 @@
     "Pasted image 20250713140753.png",
     "Pasted image 20250713140707.png",
     "Pasted image 20250713140657.png",
-    "Other Texts/The Last of the Dreamers.md",
-    "Decoded Ciphers/A Note of Parting.md",
+    "go fish arg.md",
+    "Unsolved Ciphers/Imminent Death.md",
+    "Decoded Ciphers/True Fire in Iron.md",
+    "Unsolved Ciphers",
+    "Sessions/Session 5 - Marvel Moment.md",
+    "Sessions/Session 16 - Lorecucked.md",
+    "Other Texts/Skate Logbook.md",
+    "Places/Astral Sea.md",
+    "Places/Cresthall Theatre.md",
     "Other Texts/Parable of Myrkul.md",
-    "Other Texts/His Name Was Magic.md",
-    "Decoded Ciphers/When The Vessel Breaks....md",
-    "Sessions/Session 14 - His Name was Magic Johnson.md",
+    "Other Texts/Nyxaris's Dream.md",
     "Sessions/Session 15 - Blackith.md",
-    "Sessions/Session 13 - Plump and Full of Ranch.md",
-    "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
-    "Sessions/Session 11 - THE NUMBERS, MASON.md",
+    "Places/Locum Arcanum.md",
+    "Sessions",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
