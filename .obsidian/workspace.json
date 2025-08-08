@@ -8,20 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b51f846e1ae473ee",
+            "id": "6238a759f00c94a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Texts/Greatness Born Or Made.md",
+                "file": "eightcipher1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greatness Born Or Made"
+              "title": "eightcipher1"
+            }
+          },
+          {
+            "id": "579e160b351d2211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eightcipher2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eightcipher2"
+            }
+          },
+          {
+            "id": "912833e613cb9164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eightcipher3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eightcipher3"
+            }
+          },
+          {
+            "id": "4404f50299a98ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eightcipher4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eightcipher4"
+            }
+          },
+          {
+            "id": "a8da83ef19eba6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eightcipher5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eightcipher5"
+            }
+          },
+          {
+            "id": "e3460a7172c345c8",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Places/Astral Sea.md",
+                "bFile": "Places/Astral Sea.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Astral Sea"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,22 +247,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b51f846e1ae473ee",
+  "active": "e3460a7172c345c8",
   "lastOpenFiles": [
-    "Other Texts/A Message.md",
-    "Other Texts/Greatness Born Or Made.md",
-    "Other Texts/Map of Cyr.md",
+    "EightCipher6.md",
+    "Eightcipher5.md",
+    "Eightcipher4.md",
+    "Eightcipher3.md",
+    "Eightcipher2.md",
+    "Goals.md",
+    "crazypheights.md",
+    "eightcipher1.md",
+    "Places/Astral Sea.md",
+    "Places/Cresthall Theatre.md",
+    "Places/Eberron.md",
+    "Places/Locum Arcanum.md",
     "Other Texts/The Last of the Dreamers.md",
+    "Other Texts/Skate Logbook.md",
     "Other Texts/Ruby Poem.md",
+    "Other Texts/Parable of Myrkul.md",
+    "Other Texts/Nyxaris's Dream.md",
+    "Other Texts/Map of Cyr.md",
+    "Other Texts/Letter to Dusty.md",
+    "Other Texts/His Name Was Magic.md",
+    "Other Texts/Greatness Born Or Made.md",
+    "Other Texts/A Message.md",
     "fih/A_New_Vow.md",
     "fih/Map of Cyr.md",
-    "fih/A Message.md",
-    "Unsolved Ciphers/imminentdeath.md",
     "fih/misc messages not entered before.md",
-    "Untitled.md",
-    "fih/misc notable behaviors.md",
-    "Concepts and Esoterica/The Path.md",
-    "Decoded Ciphers/Letter to Vlaakith from probably Vecner.md",
     "fih/the_path.md",
     "fih",
     "Pasted image 20250713161155.png",
@@ -204,18 +286,7 @@
     "Pasted image 20250713140753.png",
     "Pasted image 20250713140707.png",
     "Pasted image 20250713140657.png",
-    "go fish arg.md",
-    "Unsolved Ciphers/Imminent Death.md",
-    "Decoded Ciphers/True Fire in Iron.md",
     "Unsolved Ciphers",
-    "Sessions/Session 5 - Marvel Moment.md",
-    "Sessions/Session 16 - Lorecucked.md",
-    "Other Texts/Skate Logbook.md",
-    "Places/Astral Sea.md",
-    "Places/Cresthall Theatre.md",
-    "Other Texts/Parable of Myrkul.md",
-    "Other Texts/Nyxaris's Dream.md",
-    "Sessions/Session 15 - Blackith.md",
     "Sessions",
     "Misc",
     "Characters",
