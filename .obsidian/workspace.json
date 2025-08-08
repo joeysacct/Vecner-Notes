@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eightcipher1.md",
+                "file": "secondofsevens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eightcipher1"
+              "title": "secondofsevens"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eightcipher2.md",
+                "file": "twosevens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eightcipher2"
+              "title": "twosevens"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eightcipher3.md",
+                "file": "lastofsevens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eightcipher3"
+              "title": "lastofsevens"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eightcipher4.md",
+                "file": "thirdofsevens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eightcipher4"
+              "title": "thirdofsevens"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eightcipher5.md",
+                "file": "foursevens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eightcipher5"
+              "title": "foursevens"
             }
           },
           {
@@ -83,16 +83,16 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Places/Astral Sea.md",
-                "bFile": "Places/Astral Sea.md",
+                "aFile": "Characters/The Betrayer.md",
+                "bFile": "Characters/The Betrayer.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Astral Sea"
+              "title": "Diff: The Betrayer"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,16 +247,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3460a7172c345c8",
+  "active": "a8da83ef19eba6a0",
   "lastOpenFiles": [
-    "EightCipher6.md",
-    "Eightcipher5.md",
-    "Eightcipher4.md",
-    "Eightcipher3.md",
-    "Eightcipher2.md",
+    "threesevens.md",
+    "thirdofsevens.md",
+    "lastofsevens.md",
+    "twosevens.md",
+    "secondofsevens.md",
+    "foursevens.md",
     "Goals.md",
     "crazypheights.md",
-    "eightcipher1.md",
     "Places/Astral Sea.md",
     "Places/Cresthall Theatre.md",
     "Places/Eberron.md",
