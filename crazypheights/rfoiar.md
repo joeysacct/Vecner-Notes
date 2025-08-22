@@ -6,4 +6,4 @@ Regarding the interests raised on the individual heretofore identified as Person
 Because of the highly sensitive nature of your request and the lack of any clear exigent need for the release of any potential information related to Persona B we must deny your request at this time.
 For further information about your denial consult the appropriate case agent assigned to Persona B.
 Any further requests issued for Persona B will be denied with prejudice.
-Dept. of Official Inquiry of the Office of IAR D
+Dept. of Official Inquiry of the Office of IAR

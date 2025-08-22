@@ -11,7 +11,7 @@ Invalid Suit. Select a suit to play: ls
 (green) Someone you know, but clearly not well enough. Follow the threads. The path. And you may find what you seek...
 
 Invalid Suit. Select a suit to play: b
-(magenta) What is is in a name, anyways?
+(clear) What is is in a name, anyways?
 
 Invalid Suit. Select a suit to play: mordenkainen
 (blue) He is quite a dashing fellow, no? And he knows more than any mortal man. Quite an invaluable resource.
@@ -38,3 +38,36 @@ Press enter to continue...
 after 7 wins:
 YOU WIN!
 Remember, not every pathway leads straight ahead. Some lead unto darkness...
+
+YOU LOSE!
+
+MorTaAl slides a card over to you...
+The Seven of Crosses.
+        ┌─────────┐
+        │7        │
+        │  ╪   ╪  │
+        │    ╪    │
+        │  ╪   ╪  │
+        │         │
+        │  ╪   ╪  │
+        │         │
+        │        7│
+        └─────────┘
+There it was again. A change. Something new awaits you.
+
+
+YOU LOSE!
+
+MorTaAl slides a card over to you...
+The Seven of Nulls.
+        ┌─────────┐
+        │7        │
+        │  ø   ø  │
+        │    ø    │
+        │  ø   ø  │
+        │         │
+        │  ø   ø  │
+        │         │
+        │        7│
+        └─────────┘
+A final change. Come and see.

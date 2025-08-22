@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crazypheights/lsdl.md",
+                "file": "Concepts and Esoterica/The Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lsdl"
+              "title": "The Path"
+            }
+          },
+          {
+            "id": "487ba0b737077526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crazypheights/crazypheights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "crazypheights"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dogs",
+                "query": "isolde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,17 +193,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5cbf82b5816e242",
+  "active": "12d4908a6c73c831",
   "lastOpenFiles": [
-    "Other Texts/Skate Logbook.md",
     "crazypheights/A Eulogy.md",
-    "crazypheights/crazypheights.md",
     "crazypheights/lsdl.md",
-    "crazypheights/silence.md",
-    "crazypheights/rfoiar.md",
     "crazypheights/new_pathways.md",
-    "Other Texts/A Message.md",
+    "crazypheights/rfoiar.md",
     "crazypheights/wonderfulidea.md",
+    "crazypheights/ROQ.md",
+    "crazypheights/silence.md",
+    "crazypheights/strange encounters.md",
+    "Books/Seeing the Impossible - Behind the Dark Curtain.md",
+    "crazypheights/crazypheights.md",
+    "Pasted image 20250821181619.png",
+    "Other Texts/Skate Logbook.md",
+    "Unsolved Ciphers/imminentdeath.md",
+    "Other Texts/A Message.md",
     "crazypheights",
     "Other Texts/His Name Was Magic.md",
     "Other Texts/The Last of the Dreamers.md",
@@ -201,10 +223,6 @@
     "Places/Astral Sea.md",
     "Places/Cresthall Theatre.md",
     "Places/Eberron.md",
-    "Places/Locum Arcanum.md",
-    "Other Texts/Ruby Poem.md",
-    "Other Texts/Parable of Myrkul.md",
-    "Other Texts/Nyxaris's Dream.md",
     "fih",
     "Pasted image 20250713161155.png",
     "Pasted image 20250713161053.png",
@@ -215,7 +233,6 @@
     "Pasted image 20250713140831.png",
     "Pasted image 20250713140753.png",
     "Pasted image 20250713140707.png",
-    "Pasted image 20250713140657.png",
     "Unsolved Ciphers",
     "Sessions",
     "Misc",
