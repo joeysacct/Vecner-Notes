@@ -11,14 +11,14 @@
             "id": "2580dd8d81a966af",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "crazypheights/strange encounters.md",
-                "bFile": "crazypheights/strange encounters.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: strange encounters"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -109,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -152,11 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           }
         ],
@@ -180,15 +182,19 @@
   },
   "active": "2580dd8d81a966af",
   "lastOpenFiles": [
+    "Pasted image 20250713160843.png",
     "README.md",
-    "Other Texts/Greatness Born Or Made.md",
-    "Other Texts/His Name Was Magic.md",
-    "Pasted image 20250826014325.png",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Pasted image 20250826013630.png",
+    "Pasted image 20250713161053.png",
+    "Pasted image 20250713161155.png",
+    "Pasted image 20250821181619.png",
     "Pasted image 20250826013418.png",
     "Pasted image 20250826013429.png",
+    "Pasted image 20250826013630.png",
+    "Pasted image 20250826014325.png",
+    "Other Texts/Greatness Born Or Made.md",
+    "Other Texts/His Name Was Magic.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "2025-08-26.md",
     "Other Texts/Nyxaris's Dream.md",
     "Books/Discipline and Sedition - The original prison and primordial panopticism.md",
@@ -207,7 +213,6 @@
     "Pasted image 20250713125635.png",
     "Pasted image 20250713125558.png",
     "Pasted image 20250713125547.png",
-    "Pasted image 20250713125721.png",
     "Other Texts/Ruby Poem.md",
     "Other Texts/Parable of Myrkul.md",
     "Other Texts/Map of Cyr.md",
@@ -215,12 +220,9 @@
     "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
     "fih/A Message.md",
     "fih/Map of Cyr.md",
-    "Other Texts/A Message.md",
-    "Pasted image 20250821181619.png",
     "crazypheights",
     "Unsolved Ciphers",
     "fih",
-    "Pasted image 20250713161155.png",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
