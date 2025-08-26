@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sessions/Session 19 - Nukezario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Session 19 - Nukezario"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Sessions/Session 19 - Nukezario.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Session 19 - Nukezario"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Sessions/Session 19 - Nukezario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Session 19 - Nukezario"
             }
           }
         ],
@@ -182,8 +182,12 @@
   },
   "active": "2580dd8d81a966af",
   "lastOpenFiles": [
-    "Pasted image 20250713160843.png",
+    "Sessions/Session 18 - Welcome to the Dream Kingdom Bitch.md",
+    "Sessions/Session 19 - Nukezario.md",
+    "Sessions/Session 17 - Mordenkainen Why’d You Kill That Guy.md",
+    "Sessions/Session 16 - Lorecucked.md",
     "README.md",
+    "Pasted image 20250713160843.png",
     "Pasted image 20250713161053.png",
     "Pasted image 20250713161155.png",
     "Pasted image 20250821181619.png",
@@ -212,14 +216,10 @@
     "fih/A_New_Vow.md",
     "Pasted image 20250713125635.png",
     "Pasted image 20250713125558.png",
-    "Pasted image 20250713125547.png",
     "Other Texts/Ruby Poem.md",
     "Other Texts/Parable of Myrkul.md",
     "Other Texts/Map of Cyr.md",
     "Other Texts/Letter to Dusty.md",
-    "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
-    "fih/A Message.md",
-    "fih/Map of Cyr.md",
     "crazypheights",
     "Unsolved Ciphers",
     "fih",
