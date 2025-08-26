@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ce940ee804674e",
+        "id": "48c405194b68a10a",
         "type": "tabs",
         "children": [
           {
-            "id": "d886e77708758ff3",
+            "id": "2580dd8d81a966af",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "you know not what",
+                "query": "/P.*? F.*?/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,12 +152,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 14 - His Name was Magic Johnson"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -179,53 +178,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d886e77708758ff3",
+  "active": "2580dd8d81a966af",
   "lastOpenFiles": [
+    "README.md",
+    "Other Texts/Greatness Born Or Made.md",
+    "Other Texts/His Name Was Magic.md",
+    "Pasted image 20250826014325.png",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Pasted image 20250826013630.png",
+    "Pasted image 20250826013418.png",
+    "Pasted image 20250826013429.png",
+    "2025-08-26.md",
+    "Other Texts/Nyxaris's Dream.md",
+    "Books/Discipline and Sedition - The original prison and primordial panopticism.md",
     "Other Texts/Skate Logbook.md",
+    "crazypheights/A Eulogy.md",
+    "crazypheights/lsdl.md",
+    "crazypheights/crazypheights.md",
+    "crazypheights/new_pathways.md",
+    "crazypheights/rfoiar.md",
+    "crazypheights/ROQ.md",
+    "crazypheights/silence.md",
+    "crazypheights/strange encounters.md",
+    "crazypheights/wonderfulidea.md",
+    "fih/the_path.md",
+    "fih/A_New_Vow.md",
+    "Pasted image 20250713125635.png",
+    "Pasted image 20250713125558.png",
+    "Pasted image 20250713125547.png",
+    "Pasted image 20250713125721.png",
     "Other Texts/Ruby Poem.md",
     "Other Texts/Parable of Myrkul.md",
-    "Other Texts/Nyxaris's Dream.md",
     "Other Texts/Map of Cyr.md",
     "Other Texts/Letter to Dusty.md",
-    "Other Texts/His Name Was Magic.md",
     "Books/The Fable of Marduk, Nanna-Sin, and Tiamat.md",
-    "fih/A_New_Vow.md",
     "fih/A Message.md",
     "fih/Map of Cyr.md",
     "Other Texts/A Message.md",
-    "fih/misc messages not entered before.md",
-    "fih/misc notable behaviors.md",
-    "fih/the_path.md",
-    "Books/Seeing the Impossible - Behind the Dark Curtain.md",
-    "crazypheights/strange encounters.md",
-    "Books/The History of the Gith.md",
-    "Unsolved Ciphers/imminentdeath.md",
-    "crazypheights/ROQ.md",
-    "crazypheights/A Eulogy.md",
     "Pasted image 20250821181619.png",
-    "crazypheights/crazypheights.md",
-    "crazypheights/lsdl.md",
-    "crazypheights/new_pathways.md",
-    "crazypheights/rfoiar.md",
-    "crazypheights/silence.md",
     "crazypheights",
     "Unsolved Ciphers",
     "fih",
     "Pasted image 20250713161155.png",
-    "Pasted image 20250713161053.png",
-    "Pasted image 20250713160843.png",
-    "Pasted image 20250713160437.png",
-    "Pasted image 20250713154512.png",
-    "Pasted image 20250713154140.png",
-    "Pasted image 20250713140831.png",
-    "Pasted image 20250713140753.png",
-    "Pasted image 20250713140707.png",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
     "Places",
     "Other Texts",
-    "Decoded Ciphers",
-    "Books"
+    "Decoded Ciphers"
   ]
 }
