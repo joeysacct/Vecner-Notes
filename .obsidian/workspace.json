@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5cbf82b5816e242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts and Esoterica/The Path.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Path"
-            }
-          },
-          {
-            "id": "487ba0b737077526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decoded Ciphers/When The Vessel Breaks....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "When The Vessel Breaks..."
-            }
-          },
-          {
             "id": "71081de43b43acc3",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Decoded Ciphers/A Message.md",
+                "bFile": "Decoded Ciphers/A Message.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: A Message"
+            }
+          },
+          {
+            "id": "d27700fc2c87d2de",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Texts/Skate Logbook.md",
+                "file": "Decoded Ciphers/ROQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skate Logbook"
+              "title": "ROQ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isolde",
+                "query": "b is hoping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,15 +191,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71081de43b43acc3",
+  "active": "1a3e7841446eb68f",
   "lastOpenFiles": [
-    "Decoded Ciphers/silence.md",
-    "Decoded Ciphers/lsdl.md",
-    "the_path.md",
+    "Concepts and Esoterica/The Path.md",
+    "Decoded Ciphers/ROQ.md",
     "Decoded Ciphers/A Eulogy.md",
+    "Decoded Ciphers/A Message.md",
     "Decoded Ciphers/A Note of Parting.md",
+    "Decoded Ciphers/A_New_Vow.md",
+    "Decoded Ciphers/Letter to Vlaakith.md",
+    "Decoded Ciphers/lsdl.md",
+    "Decoded Ciphers/Map of Cyr.md",
+    "Decoded Ciphers/new_pathways.md",
+    "Decoded Ciphers/rfoiar.md",
     "Decoded Ciphers/Shadowfell Shattered Fang Note.md",
+    "Decoded Ciphers/silence.md",
+    "Decoded Ciphers/the_path.md",
     "Decoded Ciphers/Vlaakith Shattered Fang Note.md",
+    "Decoded Ciphers/When The Vessel Breaks....md",
+    "Decoded Ciphers/You Mere Ants - Transmission From the Stars.md",
+    "Decoded Ciphers/wonderfulidea.md",
+    "Decoded Ciphers/Strange Encounters.md",
+    "Sessions/Session 6 - The Mystery of The Druids.md",
+    "Other Texts/Skate Logbook.md",
+    "the_path.md",
     "Unsolved Ciphers/cipher work spreadsheet.md",
     "Places/Barovia.md",
     "Other Texts/Legend Lores.md",
@@ -230,20 +230,6 @@
     "Images/Pasted image 20250713140707.png",
     "Images",
     "Concepts and Esoterica/The Dream.md",
-    "Concepts and Esoterica/Litany.md",
-    "Characters/The Old Man in the Dream.md",
-    "Characters/Sarusanda Allester.md",
-    "Characters/Lady Shar.md",
-    "Characters/L.S..md",
-    "Characters/B.md",
-    "Other Texts/Parable of Myrkul.md",
-    "Decoded Ciphers/When The Vessel Breaks....md",
-    "Decoded Ciphers/Letter to Vlaakith from probably Vecner.md",
-    "Misc/God Eaters.md",
-    "Other Texts/The Last of the Dreamers.md",
-    "Other Texts/Skate Logbook.md",
-    "Other Texts/Ruby Poem.md",
-    "Other Texts/Nyxaris's Dream.md",
     "crazypheights",
     "fih",
     "Unsolved Ciphers",
