@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Decoded Ciphers/A Eulogy.md",
-                "bFile": "Decoded Ciphers/A Eulogy.md",
+                "aFile": "crazypheights/strange encounters.md",
+                "bFile": "crazypheights/strange encounters.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: A Eulogy"
+              "title": "Diff: strange encounters"
             }
           }
         ]
@@ -178,9 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a3e7841446eb68f",
+  "active": "3f7d2fbeccc83a81",
   "lastOpenFiles": [
     "crazypheights/strange encounters.md",
+    "conflict-files-obsidian-git.md",
     "crazypheights/rfoiar.md",
     "crazypheights/new_pathways.md",
     "crazypheights/lsdl.md",
@@ -215,7 +216,6 @@
     "Sessions/Session 16 - Lorecucked.md",
     "Sessions/Session 17 - Mordenkainen Why’d You Kill That Guy.md",
     "Sessions/Session 18 - Welcome to the Dream Kingdom Bitch.md",
-    "Sessions/Session 9 - interlude.md",
     "Images",
     "Untitled.base",
     "Untitled.canvas",
