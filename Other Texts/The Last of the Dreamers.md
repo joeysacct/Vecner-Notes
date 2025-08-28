@@ -12,11 +12,6 @@ The shackled man stands, spits, and says nothing, instead placing the stool in f
 
 At that moment, the shackled man stands and kicks the stool out from under him. The man struggles, clawing at his neck, before going limp. The shackled man lets out a sigh, and then climbs the stool, reaching up, and grabbing one of the golden fruits from the tree. He comes down, and takes a bite. Munching on it, and savoring the taste. Suddenly, he grabs at his chest, and falls from the chair face down onto the stage. The lights fade and the curtains fall.
 
-Identities:
-
-The Shackled Man - ???
-The Hanged Man - ???
-
 [[Cresthall Theatre]]
 
 #texts

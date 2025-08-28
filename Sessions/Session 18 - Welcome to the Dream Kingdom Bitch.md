@@ -5,7 +5,7 @@
 
 ## Places Visited
 
-- eberron
+- [[eberron]]
     
 
 ## Events
@@ -17,7 +17,7 @@
 - Fight time in fightyplace. Emissaries of ‘lady glaive’
     
 
-- We win but stan dies
+- We win but [[Serstan|stan]] dies
     
 
 - Stans back
@@ -60,10 +60,10 @@
 - Upon physical contact, everyone falls asleep.
     
 
-- We begin to dream and find ourselves in a familiar place under unfamiliar circumstances. Oily black floor, standing in chevron formation. 
+- We begin to dream and find ourselves in [[The Dream|a familiar place]] under unfamiliar circumstances. Oily black floor, standing in chevron formation. 
     
 
-- Ahead of the featureless sea, a man sitting at a table. Bushy beard and kind eyes. Green and blue clothing. Behind him, a silver door. 
+- Ahead of the featureless sea, a [[The Old Man in the Dream|man]] sitting at a table. Bushy beard and kind eyes. Green and blue clothing. Behind him, a silver door. 
     
 - “Ah, its good to see you. Up for a little game?” he pulls out a deck of cards.
     

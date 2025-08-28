@@ -148,7 +148,7 @@
     
 
 - ONE MORE CIPHER
-[[Letter to Vlaakith from probably Vecner]]
+[[Letter to Vlaakith]]
   
 
 - Session Over!

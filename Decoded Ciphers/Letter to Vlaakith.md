@@ -14,8 +14,8 @@ You have long searched for freedom from the shackles of undeath, have you not? K
 The path waits for you. The Hand waits for you. I wait for you.
 
 The Eye sees. The Hand grasps. The Heart beats. The Maw devours.
+(NOTE: these are all things that are done to [[The Path]].)
 
 The First Speaker. Master of all things hidden and gone. He who wakes the Dreamers.
-[[Vecna]]
 
 #cipher

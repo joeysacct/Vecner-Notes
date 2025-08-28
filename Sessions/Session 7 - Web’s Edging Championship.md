@@ -33,7 +33,7 @@
     
 - [[Nazario]] is back. L
     
-- We also saw that mf [[Lord Soth]] with presumably [[Vecna|vecner]]
+- We also saw that mf [[L.S.]] with presumably [[Vecna|vecner]]
     
 - We yammer further on web edge plans
     

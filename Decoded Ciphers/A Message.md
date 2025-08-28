@@ -1,0 +1,4 @@
+(green text)
+THE PATH AWAITS...EXCELLENT WORK...
+
+You know not what you meddle with. But then again Neither did we... Your search for answers will lead you down paths unto nothing but darkness. Follow them. Lead them where they may lie. Just as we have. Just as they will. [[The path]] before you is a treacherous one But it remains as the only path ahead. You are fast approaching a point of no return. An end. The End. You must be prepared for the coming world and the choices you must make. We will be watching you all with great interest

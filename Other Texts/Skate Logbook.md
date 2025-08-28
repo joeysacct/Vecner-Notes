@@ -1,22 +1,3 @@
-
-## The Box:
-
-Inside you find a small logbook, a key, and a note. The logbook is a small, short book with leather binding. Embossed on the front is gold leaf lettering, which says "The Skate". The key looks like a simple iron key, with carvings of very strange runes along the loop of the key. The shape of the key's teeth also appears strange, almost like they are too short for any standard lock. The note is simple parchment, and is folded in half.
-
-### The Note:
-
-To whomever is unfortunate enough to now read this letter, 
-
-  
-
-I implore you to let sleeping dogs lie. This key and this book, wherever it may be from, have brought nothing but strife to me. They will certainly do the same to you.
-
-  
-
-[[Lord Soth|L.S.]]
-
-# The Logbook: 
-
 #### Note in front sleeve:
 
 Naval Archive # 00317-H, "Recovered from vessel, 88 miles north of Grimsey. Logbook ends abruptly. All crew missing. Condition of the vessel: intact. No signs of violence. All clocks stopped at 02:47."
@@ -107,8 +88,17 @@ The last page of the logbook is torn horizontally. Only a partial note remains:
 
 "...we were wrong. It’s not beneath the sea. The sea is just its breath. The ice is its skin. We drilled through its name… and now..."
 
-  
-
 Then nothing. Just salt-stained paper.
+
+
+
+## The Box:
+Inside you find a small logbook, a key, and a note. The logbook is a small, short book with leather binding. Embossed on the front is gold leaf lettering, which says "The Skate". The key looks like a simple iron key, with carvings of very strange runes along the loop of the key. The shape of the key's teeth also appears strange, almost like they are too short for any standard lock. The note is simple parchment, and is folded in half. 
+Update: This key opens the Door to Nowhere in [[The Dream]].
+### The Note:
+
+To whomever is unfortunate enough to now read this letter, 
+I implore you to let sleeping dogs lie. This key and this book, wherever it may be from, have brought nothing but strife to me. They will certainly do the same to you.
+[[L.S.|L.S.]]
 
 #texts

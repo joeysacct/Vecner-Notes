@@ -7,7 +7,7 @@
 
 ## Places Visited
 
-- eberron
+- [[eberron]]
     
 
 ## Events
@@ -23,7 +23,7 @@
     
 - Ages ago, Mystryl was struck down by a mortal man, covetous of his immense power over reality through the weave, and hell-bent on destroying the very weave itself. While his motivations were unclear, it is theorized that the Murderer desired to create a new weave in his own image. For his hubris, the next god of magic, Mystra, took Mystryl's place, being one of his most faithful and loyal servants, and struck the mortal down for his insolence. In doing so, she struck the man from history itself.
     
-- The chosen of Mystra are a group of agents who serve the Lady of Magic directly in her duties to protect the weave from those who would try and destroy it, most especially in the figure of Shar, creator of Shadow Magic. The chosen are powerful magi selected by Mystra personally to serve as her agents in the world. In the past, they have often first served as Magisters of Magic, becoming Chosen in the process, and then giving up the power of the Magistership, either voluntarily or through force. Many famous (and infamous) mages have served as Chosen of Mystra, including the most notable of them all, The Seven Sisters, daughters of Mystra who wield special powers granted to them by Mystra herself. Some of the chosen have previously attained Lichdom, Demigodhood, and even full Godhood, while maintaining their service to Mystra. Many of the chosen have died in their service to Mystra, but have maintained their connection to her realm and the other Chosen beyond their deaths.
+- The chosen of [[Mystra]] are a group of agents who serve the Lady of Magic directly in her duties to protect the weave from those who would try and destroy it, most especially in the figure of Shar, creator of Shadow Magic. The chosen are powerful magi selected by Mystra personally to serve as her agents in the world. In the past, they have often first served as Magisters of Magic, becoming Chosen in the process, and then giving up the power of the Magistership, either voluntarily or through force. Many famous (and infamous) mages have served as Chosen of Mystra, including the most notable of them all, The Seven Sisters, daughters of Mystra who wield special powers granted to them by Mystra herself. Some of the chosen have previously attained Lichdom, Demigodhood, and even full Godhood, while maintaining their service to Mystra. Many of the chosen have died in their service to Mystra, but have maintained their connection to her realm and the other Chosen beyond their deaths.
     
 - He is one of the last remaining Sorcerer-Kings of the Netheril, and is one of, if not the oldest mortal, living creatures in all of the Sword Coast. He was one of the first of the Netheril to discover the secrets of Velsharoon, and became one of the most powerful mages in all the lands, ensuring his place as one of Mystryl's chosen. After the fall of the Netheril and the Death of Mystryl, he went into hiding in a crypt he had fashioned out of one of the great ruins of the Netheril in the Anauroch desert. He has been challenged by many in the past, especially by rival liches, but has turned many of them into his own servants to his supreme will. He is said to have even bested a whole army of Red Wizards of the Thayan Nations by himself. While it is known that he was once a fierce rival and opponent to Mystra, he has since become a strong supporter, acting as one of her chosen in the battle against those who would destroy the weave.
     

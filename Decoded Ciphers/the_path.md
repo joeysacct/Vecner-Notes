@@ -1,0 +1,3 @@
+[[L.S.]]
+I hope this letter finds you well. We were all hoping to contact you a hair sooner than now, but time does as it may. Enclosed is a very peculiar [[Seeing the Impossible - Behind the Dark Curtain|book]] that we found on some of those "outings" I told you so much about. They are very... interesting... Please let me know what you can make of this book. It seems quite fascinating and not of this world. But please, do make haste. You and I must be sure to return it to Mr. You Know Who sooner rather than later. You know how he gets about misplaced things. Anyways, ta ta for now!
+- [[B]]
