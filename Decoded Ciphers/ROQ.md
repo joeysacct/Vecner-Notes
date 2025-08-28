@@ -1,0 +1,3 @@
+Five sevens in a row. The Path is long and dark. You must follow it until the shadows grow long.
+
+We’ve been traveling this pocket plane for weeks, or what we assume are weeks, and what we assume is a pocket plane. Whatever. In the mean time, we have found countless places. Freely traveling this place was never something we thought to do. And maybe there was a good reason. Everywhere we go is so quiet. Silent. Dead. These places were probably hidden for a reason. But who can tell. We pop in just to see nothing everywhere and no one. What could it all mean? B is hoping we’ll find out if we keep looking.
