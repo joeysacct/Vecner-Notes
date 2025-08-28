@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "48c405194b68a10a",
+        "id": "ee8c393f67f32ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "2580dd8d81a966af",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "crazypheights/silence.md",
-                "bFile": "crazypheights/silence.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: silence"
-            }
-          },
-          {
-            "id": "19355ac1b4a5963f",
+            "id": "e5cbf82b5816e242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cipher work spreadsheet.md",
+                "file": "Concepts and Esoterica/The Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cipher work spreadsheet"
+              "title": "The Path"
+            }
+          },
+          {
+            "id": "487ba0b737077526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crazypheights/strange encounters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strange encounters"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,10 +68,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/P.*? F.*?/",
+                "query": "isolde",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bef47bed338824f2",
@@ -103,13 +104,44 @@
         "type": "tabs",
         "children": [
           {
+            "id": "60fd273855c385d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73545f8d6cebd4d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
             "id": "3a5bd0778785649f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -140,41 +172,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "5bfb496eac7d795b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sessions/Session 14 - His Name was Magic Johnson.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 14 - His Name was Magic Johnson"
-            }
-          },
-          {
-            "id": "9b7290c1dd25394b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,49 +192,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2580dd8d81a966af",
+  "active": "487ba0b737077526",
   "lastOpenFiles": [
     "cipher work spreadsheet.md",
-    "crazypheights/silence.md",
-    "Decoded Ciphers/You Mere Ants - Transmission From the Stars.md",
-    "README.md",
     "Sessions/Session 19 - Nukezario.md",
     "Sessions/Session 18 - Welcome to the Dream Kingdom Bitch.md",
     "Sessions/Session 17 - Mordenkainen Why’d You Kill That Guy.md",
-    "Sessions/Session 16 - Lorecucked.md",
-    "Pasted image 20250713160843.png",
-    "Pasted image 20250713161053.png",
-    "Pasted image 20250713161155.png",
-    "Pasted image 20250821181619.png",
-    "Pasted image 20250826013418.png",
-    "Pasted image 20250826013429.png",
-    "Pasted image 20250826013630.png",
-    "Pasted image 20250826014325.png",
-    "Other Texts/Greatness Born Or Made.md",
-    "Other Texts/His Name Was Magic.md",
-    "Untitled.base",
-    "Untitled.canvas",
-    "2025-08-26.md",
-    "Other Texts/Nyxaris's Dream.md",
-    "Books/Discipline and Sedition - The original prison and primordial panopticism.md",
-    "Other Texts/Skate Logbook.md",
+    "README.md",
+    "Unsolved Ciphers/imminentdeath.md",
+    "crazypheights/ROQ.md",
+    "Books/Seeing the Impossible - Behind the Dark Curtain.md",
+    "crazypheights/rfoiar.md",
+    "crazypheights/crazypheights.md",
     "crazypheights/A Eulogy.md",
     "crazypheights/lsdl.md",
-    "crazypheights/crazypheights.md",
     "crazypheights/new_pathways.md",
-    "crazypheights/rfoiar.md",
-    "crazypheights/ROQ.md",
-    "crazypheights/strange encounters.md",
     "crazypheights/wonderfulidea.md",
-    "fih/the_path.md",
-    "fih/A_New_Vow.md",
-    "Pasted image 20250713125635.png",
-    "Pasted image 20250713125558.png",
-    "Other Texts/Ruby Poem.md",
-    "Other Texts/Parable of Myrkul.md",
+    "crazypheights/silence.md",
+    "crazypheights/strange encounters.md",
+    "Pasted image 20250821181619.png",
+    "Other Texts/Skate Logbook.md",
+    "Other Texts/A Message.md",
     "crazypheights",
-    "Unsolved Ciphers",
+    "Other Texts/His Name Was Magic.md",
+    "Other Texts/The Last of the Dreamers.md",
+    "secondofsevens.md",
+    "twosevens.md",
+    "threesevens.md",
+    "thirdofsevens.md",
+    "lastofsevens.md",
+    "foursevens.md",
     "fih",
+    "Pasted image 20250713161155.png",
+    "Pasted image 20250713161053.png",
+    "Pasted image 20250713160843.png",
+    "Pasted image 20250713160437.png",
+    "Pasted image 20250713154512.png",
+    "Pasted image 20250713154140.png",
+    "Pasted image 20250713140831.png",
+    "Pasted image 20250713140753.png",
+    "Pasted image 20250713140707.png",
+    "Unsolved Ciphers",
+    "Sessions",
     "Misc",
     "Characters",
     "Concepts and Esoterica",
