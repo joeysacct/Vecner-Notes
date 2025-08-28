@@ -11,14 +11,14 @@
             "id": "d27700fc2c87d2de",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Other Texts/Legend Lores.md",
-                "bFile": "Other Texts/Legend Lores.md",
-                "aRef": ""
+                "file": "Characters/L.S..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Legend Lores"
+              "icon": "lucide-file",
+              "title": "L.S."
             }
           }
         ]
