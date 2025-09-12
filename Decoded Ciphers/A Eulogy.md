@@ -8,3 +8,4 @@ we must keep our eyes open and our hands ready for whatever crosses our [[The Pa
 as he often said, [[Litany|"as the shadows grow long and the hours grow short, may they go in peace."]]
 
 POLYBIVS
+#eights
